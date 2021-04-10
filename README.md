@@ -57,13 +57,13 @@ name | Philips Air Purifier | Optional | Name of the Fan.
 
 ## Supported models:
 
-- AC1214
-- AC2729
-- AC2889
-- AC3059
-- AC3829
-- AC3858
-- AC4236
+- ac1214
+- ac2729
+- ac2889
+- ac3059
+- ac3829
+- ac3858
+- ac4236
 
 ## Is your model not supported yet?
 
